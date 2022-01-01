@@ -2,8 +2,8 @@
 
 #### Dark mode
 
-![Dark mode](./dark-mode.png)
+![Screenshot](./dark-mode.png)
 
 #### Light mode
 
-![Light mode](./light-mode.png)
+![Screenshot](./light-mode.png)
